@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e3f8c05-2a08-4530-a156-841d3a7bf3fc" name="Changes" comment="Implemented Bubblesort for Strings, added JUnit test">
-      <change beforePath="$PROJECT_DIR$/src/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bubblesort.java" afterDir="false" />
+    <list default="true" id="3e3f8c05-2a08-4530-a156-841d3a7bf3fc" name="Changes" comment="rm unnecessary global variable">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mars190"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a353ff21-a411-43e4-8aec-35b6269de9fd" />
+        <option name="url" value="https://github.com/Mars190/java_bubblesort_usernames.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -43,13 +62,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Marc/IdeaProjects/java_bubblesort_usernames",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,7 +84,7 @@
       <updated>1690967564880</updated>
       <workItem from="1690967565893" duration="2000" />
       <workItem from="1690973964272" duration="14000" />
-      <workItem from="1690974034586" duration="1047000" />
+      <workItem from="1690974034586" duration="1755000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented Bubblesort for Strings, added JUnit test">
       <option name="closed" value="true" />
@@ -73,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690975039060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rm unnecessary global variable">
+      <option name="closed" value="true" />
+      <created>1690975266967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690975266967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented Bubblesort for Strings, added JUnit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented Bubblesort for Strings, added JUnit test" />
+    <MESSAGE value="rm unnecessary global variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm unnecessary global variable" />
   </component>
 </project>
