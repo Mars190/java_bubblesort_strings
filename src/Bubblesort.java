@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class Bubblesort {
-    public static String[] list;
 
     public static void main(String[] args) {
         sort(new String[] {
@@ -16,8 +15,7 @@ public class Bubblesort {
         });
     }
 
-    public static String[] sort(String[] given_list) {
-        list = given_list;
+    public static String[] sort(String[] list) {
         int n = list.length;
         boolean swapped;
 
