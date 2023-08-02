@@ -26,7 +26,7 @@ public class Bubblesort {
 
             for (int i = 0; i < n-1; i++)
             {
-                if (list[i].compareTo(list[i + 1]) > 0)
+                if (list[i].compareTo(list[i + 1]) > 0) // Wenn list[i] weiter hinten im alphabet ist als list[i + 1]
                 {
                     swapInArray(i, i + 1, list);
                     swapped = true;
